@@ -1,0 +1,12 @@
+yfinance
+xgboost
+scikit-learn
+imbalanced-learn
+pandas
+numpy
+matplotlib
+seaborn
+boto3
+joblib
+requests
+nltk
